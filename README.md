@@ -142,7 +142,7 @@ now server is running on `localhost:8000`
 open your browser and type `localhost:8000`to load application.
 
 ## Deep Learning Model
-### Berief introduction
+### Brief introduction
 **U-Net** architecture (shown in the Fig below) is characterised by a symmetric
 U-shape, and can be divided into two parts, i.e., encoder and decoder. The first
 part is the contracting path (encoder) which is transforming the input volume
